@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JanLewczuk
+- 👀 I’m interested in IT and Electrical Engineering
+- 🌱 I’m currently learning Pythhon and SQL
+- 📫 How to reach me: janlewczuk97@gmail.com
